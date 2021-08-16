@@ -1,0 +1,6 @@
+BasedOnStyle: Chromium
+---
+Language: Cpp
+Standard: Cpp11
+IndentWidth: 4
+SortIncludes: true
